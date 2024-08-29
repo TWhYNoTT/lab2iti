@@ -1,6 +1,6 @@
 # Lab 2 ITI
 
-## Project Image
+## Fluffy and Zomorod
 ![Project Image](123.png)
 
 ### 1. How to Remove Branches Locally and Remotely
